@@ -166,4 +166,7 @@ const (
 
 	// Management hostname to signify incoming management requests
 	ManagementHostname = "management-hostname"
+
+	// Automatically close the login interstitial browser window after the user makes a decision.
+	AutoCloseInterstitial = "auto-close"
 )
